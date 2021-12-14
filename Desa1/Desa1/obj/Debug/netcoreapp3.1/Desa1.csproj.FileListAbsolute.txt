@@ -21,3 +21,4 @@ C:\Users\eduar\source\repos\Desa1\Desa1\obj\Debug\netcoreapp3.1\Desa1.dll
 C:\Users\eduar\source\repos\Desa1\Desa1\obj\Debug\netcoreapp3.1\Desa1.pdb
 C:\Users\eduar\source\repos\Desa1\Desa1\obj\Debug\netcoreapp3.1\Desa1.genruntimeconfig.cache
 C:\Users\eduar\source\repos\Desa1\Desa1\obj\Debug\netcoreapp3.1\Desa1.Form2.resources
+C:\Users\eduar\source\repos\Desa1\Desa1\obj\Debug\netcoreapp3.1\Desa1.Form3.resources

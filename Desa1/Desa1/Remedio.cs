@@ -27,7 +27,7 @@ namespace Desa1
             string sql = "select nomeRemedio,horario from Remedio";
             DataTable dt = new DataTable();
             dt = bd.executarConsultaGenerica(sql);
-        
+            
             return dt;
            
         }

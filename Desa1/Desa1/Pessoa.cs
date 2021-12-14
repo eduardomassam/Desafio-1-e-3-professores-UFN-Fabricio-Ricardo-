@@ -62,7 +62,7 @@ namespace Desa1
                     command.Connection = cn;
                     command.Transaction = tran;
                     command.CommandType = CommandType.Text;
-
+                   
                     command.CommandText = "insert into AlunoCurso " +
                        "values (@nome, @telefone, @cidade, @RG, @CPF, @matricula, @codCurso, @nomeCurso);";
                     command.Parameters.Add("@nome", SqlDbType.VarChar);
